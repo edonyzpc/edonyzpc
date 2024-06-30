@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 <div align="center" style="display:flex;flex-direction:column;">
   <a href="https://xiaobot.net/p/edonyzpc">
-    <img src="https://github.com/edonyzpc/edonyzpc/assets/7744664/8d6b77ff-745b-48e1-800c-4f7431a5fa78" alt="小报童" style="width:40% !important;">
+    <img src="https://github.com/edonyzpc/edonyzpc/assets/7744664/8d6b77ff-745b-48e1-800c-4f7431a5fa78" alt="小报童" style="width:48% !important;">
   </a>
 </div>
 
